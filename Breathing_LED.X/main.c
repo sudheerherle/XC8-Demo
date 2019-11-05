@@ -8,7 +8,7 @@
     main.c
 
   Summary:
-    This is the main file generated using PIC10 / PIC12 / PIC16 / PIC18 MCUs
+    This is the main file generated using PIC10 / PIC12 / PIC16 / PIC18 MCUs /sudheer
 
   Description:
     This header file provides implementations for driver APIs for all modules selected in the GUI.
